@@ -31,4 +31,4 @@ Sample predictions: After training, the script generates some captions for rando
 
 The output of this code would be the model that has been trained to generate captions for images. You could feed any image to this model, and it will generate a text description (or "caption") of the image. The quality of the captions will depend on how well the model has been trained.
 
-Note: The last line while True: pass is used to keep the script running indefinitely in a Colab environment. It can be removed if you are running the script in a different environment.
+
